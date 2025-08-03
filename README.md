@@ -1,87 +1,54 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">Hey, I'm Zul 👋</h1>
+<h1 align="center">Hi, I'm Zul 👋</h1>
 <p align="center">
-  <em>Backend Developer → Mid-level yang sedang naik kelas ke Senior</em>  
-  <br/>
-  <strong>PHP • JavaScript • Python • Golang • REST API • JWT • OAuth2</strong>
-</p>
-
-<!-- ================ BADGES (minimal & dynamic) ================ -->
-<p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/yourusername?label=followers&style=flat-square">
-  <img alt="Top Languages" src="https://img.shields.io/github/languages/top/yourusername?style=flat-square">
-  <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/yourusername?style=flat-square">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square" />
+  <em>Backend Developer • Mid-level → Incar Senior</em>
 </p>
 
 ---
 
-## 🚀 Sekilas Tentang Saya
-Backend developer dengan pengalaman membangun API nyata untuk pengguna aktif. Fokus sekarang:
-- Meningkatkan **reliability** & **testing** (unit & integration)  
-- Membangun arsitektur yang **scalable** dan **maintainable**  
-- Menjadi **Senior Developer** yang bisa memimpin teknis dan mentoring
-
-> Saya suka pendekatan langsung, feedback to the point, dan kerja kolaboratif.
-
----
-
-## 🧰 Tech Stack & Skill Snapshot
-
-### Core
-| Backend | Auth & Security | Database | DevOps / Workflow |
-|--------|-----------------|----------|-------------------|
-| PHP, Golang, Python | JWT, OAuth2 | PostgreSQL / MySQL | Git, CI/CD, Docker |
-
-### Skill Progress (referensi visual lewat emoji / bars)
-- **API Design**: ██████████  (Expert)  
-- **Error Handling**: ████████░  (Advanced)  
-- **Testing**: ████░░░░░░  (Growing)  
-- **CI/CD**: █████░░░░  (Improving)  
-- **System Reliability**: ███████░░  (Solid)
+## 📄 Ringkasan
+Saya seorang **Backend Developer** dengan pengalaman nyata membangun REST API yang scalable untuk aplikasi dengan ratusan ribu pengguna aktif.  
+Fokus saya saat ini:
+- Meningkatkan kemampuan **testing** (unit & integration)
+- Memperkuat arsitektur yang **reliable & maintainable**
+- Menjadi **Senior Software Developer** yang bisa memimpin teknis
 
 ---
 
-## 💼 Proyek Pilihan
-
-<details>
-<summary><strong>vocaject</strong> (On-going)</summary>
-
-- **Deskripsi:** Platform / tool yang kamu rencanakan atau bangun (contoh: “Sistem manajemen konten suara untuk creator”)  
-- **Stack:** Golang, PostgreSQL, JWT, Docker  
-- **Status:** MVP / Beta / Deployed  
-- **Catatan:** Fokus ke scalability & authentication flow.
-
-</details>
-
-<details>
-<summary><strong>Project X / Internal System</strong></summary>
-
-- **Deskripsi:** Optimasi workflow perusahaan magang.  
-- **Impact:** Meningkatkan efisiensi / mengurangi latency / menurunkan error rate.  
-- **Stack:** PHP, Redis, observability tooling.
-
-</details>
+## 🛠 Skill
+- **Backend Development:** REST API, Microservices, Error Handling, Authentication (JWT, OAuth2)
+- **Database:** Desain skema, Optimasi query, Indexing
+- **Workflow:** Git, Code Review, Agile
+- **Problem Solving:** Analisis log, Debugging, Optimasi sistem
 
 ---
 
-## 📊 GitHub Stats (opsional, lazy-loaded)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&count_private=true" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent" alt="Top Languages" />
+## 💻 Tech Stack
+<p align="left">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
+  
+  <!-- Framework / Tools -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin"/>
+  
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
 
-## 📫 Kontak & Connect
-- ✉️ Email: zul@example.com  
-- 🔗 LinkedIn: https://linkedin.com/in/yourusername  
+## 📫 Kontak
+- 📧 Email: zul@example.com  
+- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+- 🐦 Twitter: [@username](https://twitter.com/username)  
 - 💬 Discord / Telegram: (opsional)  
-- 🔍 Cari saya: `yourusername` di GitHub / Twitter / platform lain
-
----
-
-## 📌 Catatan Cepat
-> Kalau kamu nemu bug, punya ide kolaborasi, atau mau ngasih feedback teknis—tag saya langsung. Saya lebih suka komunikasi yang to the point.
-
