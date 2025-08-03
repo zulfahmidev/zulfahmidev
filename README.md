@@ -1,30 +1,14 @@
-<!-- ================= HEADER ================= -->
-<h1 align="center">Hi, I'm Zul 👋</h1>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h1>Hi, I'm Zul 👋</h1>
+      <p>Fullstack Engineer | Backend Developer</p>
+    </summary>
+  </ul>
+</div>
+
+<h2 align="center">👳🏾‍♂️ TECHNOLOGIA</h2>
 <p align="center">
-  <em>Backend Developer • Mid-level → Incar Senior</em>
-</p>
-
----
-
-## 📄 Ringkasan
-Saya seorang **Backend Developer** dengan pengalaman nyata membangun REST API yang scalable untuk aplikasi dengan ratusan ribu pengguna aktif.  
-Fokus saya saat ini:
-- Meningkatkan kemampuan **testing** (unit & integration)
-- Memperkuat arsitektur yang **reliable & maintainable**
-- Menjadi **Senior Software Developer** yang bisa memimpin teknis
-
----
-
-## 🛠 Skill
-- **Backend Development:** REST API, Microservices, Error Handling, Authentication (JWT, OAuth2)
-- **Database:** Desain skema, Optimasi query, Indexing
-- **Workflow:** Git, Code Review, Agile
-- **Problem Solving:** Analisis log, Debugging, Optimasi sistem
-
----
-
-## 💻 Tech Stack
-<p align="left">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
@@ -35,6 +19,9 @@ Fokus saya saat ini:
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
   
   <!-- Database -->
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -45,10 +32,16 @@ Fokus saya saat ini:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
----
-
-## 📫 Kontak
-- 📧 Email: zul@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- 🐦 Twitter: [@username](https://twitter.com/username)  
-- 💬 Discord / Telegram: (opsional)  
+<h2 align="center">👀 Contact Me And Explore My Profile</h2>
+<p align="center">
+  <!-- Contacts with linked logos -->
+  <a href="mailto:contact.zulfahmi@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-contact.zulfahmi%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/zulfahmidev" title="GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@zulfahmidev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://yourwebsite.com" title="Website" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=-google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
