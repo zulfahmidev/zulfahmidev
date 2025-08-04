@@ -41,7 +41,7 @@
   <a href="https://github.com/zulfahmidev" title="GitHub" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@zulfahmidev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://yourwebsite.com" title="Website" target="_blank">
+  <a href="https://zulfahmidev.com" title="Website" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=-google-chrome&logoColor=white" alt="Website"/>
   </a>
 </p>
